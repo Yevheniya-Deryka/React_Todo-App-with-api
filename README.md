@@ -1,6 +1,6 @@
 # React Todo App with API
 
-- [DEMO LINK](https://Yevheniya-Deryka.github.io/react_todo-app-with-api/)
+- [DEMO LINK](https://yevheniya-deryka.github.io/React_Todo-App-with-api/)
 
 ## Technologies:
 - React.js
